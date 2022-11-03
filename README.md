@@ -2,7 +2,7 @@ Flask Demo Movie API
 
 To deploy 
 - Open your terminal
-- Simply head on to the Boston Gemilang directory
+- Simply head on to the Project directory
 - enter "docker-compose up -d --build"
 
 API End Points
